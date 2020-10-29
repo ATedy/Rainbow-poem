@@ -5,6 +5,7 @@
  blue
  purple
  Orange
+ indigo
  yellow
  
 Rainbow colors
