@@ -4,6 +4,7 @@
  Green
  blue
  purple
+ Orange
  
 Rainbow colors
  
